@@ -31,36 +31,36 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 <a name="research" />
 
-## Research Papers
+# Research Papers
 
 
 <a name="SOSworkshop" />
 
-### Sharpening Our Sight Workshop
+## Sharpening Our Sight Workshop
 
 
 <a name="activevision" />
 
-### Active Vision
+## Active Vision
 
 
 <a name="neurreps" />
 
-### Neural Representations
+## Neural Representations
 
 
 <a name="methods" />
 
-### Methods
+## Methods
 
 <a name="datasets" />
-## Datasets
+# Datasets
 
 
 <a name="software" />
-## Software Libraries
+# Software Libraries
 
 <a name="conferences" />
-## Conferences and Workshops
+# Conferences and Workshops
 
 
