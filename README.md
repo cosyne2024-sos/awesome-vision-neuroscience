@@ -54,13 +54,16 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 ## Methods
 
 <a name="datasets" />
+
 # Datasets
 
 
 <a name="software" />
+
 # Software Libraries
 
 <a name="conferences" />
+
 # Conferences and Workshops
 
 
