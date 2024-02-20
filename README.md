@@ -52,15 +52,15 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 
 * [Cris Niell](https://nielllab.uoregon.edu/): Neural dynamics underlying active vision in the mouse
     * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
-    * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
+    * [**Natural behavior is the language of the brain** (2022) <br /> *Cory T Miller, David Gire, Kim Hoke, Alexander C Huk, Darcy Kelley, David A Leopold, Matthew C Smear, Frederic Theunissen, Michael Yartsev, Cristopher M Niell* <br />](https://www.cell.com/current-biology/pdf/S0960-9822(22)00426-2.pdf)
 
 * [Carsen Stringer](https://www.janelia.org/people/carsen-stringer): Towards a simplified model of primary visual cortex
     * [**Spontaneous behaviors drive multidimensional, brainwide activity** (2019) <br /> *Carsen Stringer, Marius Pachitariu, Nicholas Steinmetz, Charu Bai Reddy, Matteo Carandini, Kenneth D Harris* <br />](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6525101/)
     * [**High-precision coding in visual cortex** (2021) <br /> *Carsen Stringer, Michalis Michaelos, Dmitri Tsyboulski, Sarah E Lindo, Marius Pachitariu* <br />](https://www.cell.com/cell/pdf/S0092-8674(21)00373-1.pdf)
  
-* [Christopher Summerfield](https://nielllab.uoregon.edu/): How prospection skews the human representation of space during navigation
-  * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
-  * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
+* [Christopher Summerfield](https://www.psy.ox.ac.uk/people/christopher-summerfield): How prospection skews the human representation of space during navigation
+  * [**Goal-seeking compresses neural codes for space in the human hippocampus and orbitofrontal cortex** (2023) <br /> *Paul S. Muhle-Karbe, Hannah Sheahan, Giovanni Pezzulo, Hugo J. Spiers, Samson Chien, Nicolas W. Schuck, Christopher Summerfield* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
+  * [**Learning to count visual objects by combining" what" and" where" in recurrent memory** (2022) <br /> *Jessica AF Thompson, Hannah Sheahan, Christopher Summerfield* <br />](https://openreview.net/pdf?id=Al01q787m71)
 
 * [Stuart Trenholm](https://nielllab.uoregon.edu/): On assigning semantic meaning to the preferred stimulus of a visual neuron
   * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
