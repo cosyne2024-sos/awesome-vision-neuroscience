@@ -54,11 +54,10 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Fundamentals of Computational Neuroscience, 3rd edition** (2022) <br /> *Thomas P. Trappenberg* <br />](https://global.oup.com/academic/product/fundamentals-of-computational-neuroscience-9780192869364?cc=fr&lang=en&#)
 * [**An Introductory Course in Computational Neuroscience** (2018) <br /> *Paul Miller* <br />](https://mitpress.mit.edu/9780262038256/an-introductory-course-in-computational-neuroscience/)
 * [**The Computational Brain, 25th Anniversary Edition** (2016) <br /> *Patricia S. Churchland and Terrence J. Sejnowski* <br />](https://mitpress.mit.edu/9780262533393/the-computational-brain/)
-* [**** (2021) <br /> ** <br />](https://mitpress.mit.edu/9780262016247/visual-population-codes/)
-* [**** (2021) <br /> ** <br />]()
-* [**** (2021) <br /> ** <br />]()
-* [**** (2021) <br /> ** <br />]()
-* [**** (2021) <br /> ** <br />]()
+* [**Visual Population Codes. Toward a Common Multivariate Framework for Cell Recording and Functional Imaging** (2011) <br /> *Nikolaus Kriegeskorte and Gabriel Kreiman* <br />](https://mitpress.mit.edu/9780262016247/visual-population-codes/)
+* [**Theoretical Neuroscience. Computational and Mathematical Modeling of Neural Systems** (2005) <br /> *Peter Dayan and Laurence F. Abbott* <br />](https://mitpress.mit.edu/9780262541855/theoretical-neuroscience/)
+* [**Bayesian Brain. Probabilistic Approaches to Neural Coding** (2011) <br /> *Kenji Doya, Shin Ishii, Alexandre Pouget and Rajesh P.N. Rao* <br />](https://mitpress.mit.edu/9780262516013/bayesian-brain/)
+* [**Dynamical Systems in Neuroscience. The Geometry of Excitability and Bursting** (2010) <br /> *Eugene M. Izhikevich* <br />](https://mitpress.mit.edu/9780262514200/dynamical-systems-in-neuroscience/)
 
 
 <a name="courses" />
