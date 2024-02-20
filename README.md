@@ -39,6 +39,11 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**The New Visual Neurosciences** (2013) <br /> *John S. Werner and Leo M. Chalupa* <br />](https://mitpress.mit.edu/9780262019163/the-new-visual-neurosciences/)
 * [**The Computational Neuroscience of Vision** (2002) <br /> *Edmund T. Rolls and Gustavo Deco* <br />](https://www.oxcns.org/b6_text.html)
 * [**Vision Science: Photons to Phenomenology** (1999) <br /> *Stephen E. Palmer* <br />](https://mitpress.mit.edu/9780262161831/vision-science/)
+* [**Retinal Computation** (2021) <br /> *Greg Schwartz* <br />](https://shop.elsevier.com/books/retinal-computation/schwartz/978-0-12-819896-4)
+*
+
+**External Lists**
+* [**Vision Science's Books on Biological Vision List**](https://www.visionscience.com/vsBooks.html)
 
 <a name="courses" />
 
