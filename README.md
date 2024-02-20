@@ -36,14 +36,30 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 ## Books
 
+### Vision Neuroscience 
 * [**The New Visual Neurosciences** (2013) <br /> *John S. Werner and Leo M. Chalupa* <br />](https://mitpress.mit.edu/9780262019163/the-new-visual-neurosciences/)
 * [**The Computational Neuroscience of Vision** (2002) <br /> *Edmund T. Rolls and Gustavo Deco* <br />](https://www.oxcns.org/b6_text.html)
 * [**Vision Science: Photons to Phenomenology** (1999) <br /> *Stephen E. Palmer* <br />](https://mitpress.mit.edu/9780262161831/vision-science/)
 * [**Retinal Computation** (2021) <br /> *Greg Schwartz* <br />](https://shop.elsevier.com/books/retinal-computation/schwartz/978-0-12-819896-4)
-*
+* [**Vision** (2021) <br /> *David Marr* <br />](https://mitpress.mit.edu/9780262514620/vision/)
+
 
 **External Lists**
 * [**Vision Science's Books on Biological Vision List**](https://www.visionscience.com/vsBooks.html)
+
+### Computational Neuroscience 
+* [**Visual Cortex and Deep Networks: Learning Invariant Representations ** (2016) <br /> *Tomaso Poggio & Fabio Anselmi* <br />](https://direct.mit.edu/books/oa-monograph/4088/Visual-Cortex-and-Deep-NetworksLearning-Invariant)
+* [**Spikes, Exploring the Neural Code** (1996) <br /> *William Bialek, Rob de Ruyter van Steveninck, Fred Rieke and David Warland* <br />](https://mitpress.mit.edu/9780262181747/spikes/)
+* [**Principles of Neural Design** (2017) <br /> *Peter Sterling and Simon Laughlin* <br />](https://mitpress.mit.edu/9780262534680/principles-of-neural-design/)
+* [**Fundamentals of Computational Neuroscience, 3rd edition** (2022) <br /> *Thomas P. Trappenberg* <br />](https://global.oup.com/academic/product/fundamentals-of-computational-neuroscience-9780192869364?cc=fr&lang=en&#)
+* [**An Introductory Course in Computational Neuroscience** (2018) <br /> *Paul Miller* <br />](https://mitpress.mit.edu/9780262038256/an-introductory-course-in-computational-neuroscience/)
+* [**The Computational Brain, 25th Anniversary Edition** (2016) <br /> *Patricia S. Churchland and Terrence J. Sejnowski* <br />](https://mitpress.mit.edu/9780262533393/the-computational-brain/)
+* [**** (2021) <br /> ** <br />](https://mitpress.mit.edu/9780262016247/visual-population-codes/)
+* [**** (2021) <br /> ** <br />]()
+* [**** (2021) <br /> ** <br />]()
+* [**** (2021) <br /> ** <br />]()
+* [**** (2021) <br /> ** <br />]()
+
 
 <a name="courses" />
 
