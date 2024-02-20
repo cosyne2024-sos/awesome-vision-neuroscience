@@ -48,7 +48,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Vision Science's Books on Biological Vision List**](https://www.visionscience.com/vsBooks.html)
 
 ### Computational Neuroscience 
-* [**Visual Cortex and Deep Networks: Learning Invariant Representations ** (2016) <br /> *Tomaso Poggio & Fabio Anselmi* <br />](https://direct.mit.edu/books/oa-monograph/4088/Visual-Cortex-and-Deep-NetworksLearning-Invariant)
+* [**Visual Cortex and Deep Networks: Learning Invariant Representations** (2016) <br /> *Tomaso Poggio & Fabio Anselmi* <br />](https://direct.mit.edu/books/oa-monograph/4088/Visual-Cortex-and-Deep-NetworksLearning-Invariant)
 * [**Spikes, Exploring the Neural Code** (1996) <br /> *William Bialek, Rob de Ruyter van Steveninck, Fred Rieke and David Warland* <br />](https://mitpress.mit.edu/9780262181747/spikes/)
 * [**Principles of Neural Design** (2017) <br /> *Peter Sterling and Simon Laughlin* <br />](https://mitpress.mit.edu/9780262534680/principles-of-neural-design/)
 * [**Fundamentals of Computational Neuroscience, 3rd edition** (2022) <br /> *Thomas P. Trappenberg* <br />](https://global.oup.com/academic/product/fundamentals-of-computational-neuroscience-9780192869364?cc=fr&lang=en&#)
