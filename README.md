@@ -54,15 +54,15 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
     * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
     * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
 
-* [Carsen Stringer](https://nielllab.uoregon.edu/): Neural dynamics underlying active vision in the mouse
+* [Carsen Stringer](https://nielllab.uoregon.edu/): Towards a simplified model of primary visual corte
     * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
     * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
  
-* [Christopher Summerfield](https://nielllab.uoregon.edu/): Neural dynamics underlying active vision in the mouse
+* [Christopher Summerfield](https://nielllab.uoregon.edu/): How prospection skews the human representation of space during navigation
   * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
   * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
 
-* [Stuart Trenholm](https://nielllab.uoregon.edu/): Neural dynamics underlying active vision in the mouse
+* [Stuart Trenholm](https://nielllab.uoregon.edu/): On assigning semantic meaning to the preferred stimulus of a visual neuron
   * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
   * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
 
@@ -70,7 +70,7 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
   * [**Efficient and adaptive sensory codes** (2022) <br /> *Wiktor F. Młynarski & Ann M. Hermundstad* <br />](https://www.nature.com/articles/s41593-021-00846-0)
   * [**Efficient coding theory of dynamic attentional modulation** (2022) <br /> *Wiktor Młynarski, Gašper Tkačik* <br />](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001889)
 
-* [Andreas Tolias](https://nielllab.uoregon.edu/): A Neuro-AI approach to decrypting neural representations
+* [Andreas Tolias](https://toliaslab.org/): A Neuro-AI approach to decrypting neural representations
   * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
   * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
 
