@@ -66,19 +66,19 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
   * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
   * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
 
-* [Wiktor Młynarski](https://nielllab.uoregon.edu/): Neural dynamics underlying active vision in the mouse
-  * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
-  * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
+* [Wiktor Młynarski](https://www.gsn.uni-muenchen.de/people/faculty/core/mlynarski/index.html): Interacting with the environment through flexible sensory codes
+  * [**Efficient and adaptive sensory codes** (2022) <br /> *Wiktor F. Młynarski & Ann M. Hermundstad* <br />](https://www.nature.com/articles/s41593-021-00846-0)
+  * [**Efficient coding theory of dynamic attentional modulation** (2022) <br /> *Wiktor Młynarski, Gašper Tkačik* <br />](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001889)
 
-* [Andreas Tolias](https://nielllab.uoregon.edu/): Neural dynamics underlying active vision in the mouse
+* [Andreas Tolias](https://nielllab.uoregon.edu/): A Neuro-AI approach to decrypting neural representations
   * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
   * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
 
 * [Sylvia Schröder](https://profiles.sussex.ac.uk/p531789-sylvia-schroeder): The impact of behavior and internal states on subcortical visual processing
   * [**Arousal modulates retinal output** (2020) <br /> *Sylvia Schröder, Nicholas A Steinmetz, Michael Krumin, Marius Pachitariu, Matteo Rizzi, Leon Lagnado, Kenneth D Harris, Matteo Carandini* <br />](https://www.cell.com/neuron/pdf/S0896-6273(20)30318-4.pdf)
 
-* [Jin Hwa Lee](https://nielllab.uoregon.edu/): CEBRA Tutorial on Vision Dataset
-  * [**Learnable latent embeddings for joint behavioural and neural analysis** (2023) <br /> *Steffen Schneider, Jin Hwa Lee, Mackenzie Weygandt Mathis <br />](https://www.nature.com/articles/s41586-023-06031-6)
+* [Jin Hwa Lee](https://jinhl9.github.io/): CEBRA Tutorial on Vision Dataset
+  * [**Learnable latent embeddings for joint behavioural and neural analysis** (2023) <br /> *Steffen Schneider, Jin Hwa Lee, Mackenzie Weygandt Mathis* <br />](https://www.nature.com/articles/s41586-023-06031-6)
  
 
 <a name="activevision" />
