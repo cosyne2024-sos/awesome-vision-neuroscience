@@ -72,8 +72,8 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
   * [**Efficient coding theory of dynamic attentional modulation** (2022) <br /> *Wiktor Młynarski, Gašper Tkačik* <br />](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001889)
 
 * [Andreas Tolias](https://toliaslab.org/): A Neuro-AI approach to decrypting neural representations
-  * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
-  * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
+  * [**Towards a foundation model of the mouse visual cortex** (2023) <br /> *Eric Y Wang, Paul G Fahey, Kayla Ponder, Zhuokun Ding, Andersen Chang, Taliah Muhammad, Saumil Patel, Zhiwei Ding, Dat Tran, Jiakun Fu, Stelios Papadopoulos, Katrin Franke, Alexander S Ecker, Jacob Reimer, Xaq Pitkow, Fabian H Sinz, Andreas S Tolias* <br />](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10055288/)
+  * [**State-dependent pupil dilation rapidly shifts visual feature selectivity** (2022) <br /> *Katrin Franke, Konstantin F Willeke, Kayla Ponder, Mario Galdamez, Na Zhou, Taliah Muhammad, Saumil Patel, Emmanouil Froudarakis, Jacob Reimer, Fabian H Sinz, Andreas S Tolias* <br />](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10635574/)
 
 * [Sylvia Schröder](https://profiles.sussex.ac.uk/p531789-sylvia-schroeder): The impact of behavior and internal states on subcortical visual processing
   * [**Arousal modulates retinal output** (2020) <br /> *Sylvia Schröder, Nicholas A Steinmetz, Michael Krumin, Marius Pachitariu, Matteo Rizzi, Leon Lagnado, Kenneth D Harris, Matteo Carandini* <br />](https://www.cell.com/neuron/pdf/S0896-6273(20)30318-4.pdf)
