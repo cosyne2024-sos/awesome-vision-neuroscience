@@ -11,6 +11,9 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 
 - [**Educational Resources**](#resources)
+  - [Books](#books)
+  - [Courses](#courses)
+  - [Tutorials](#tutorials)
 - [**Research Papers**](#research)
   - [Sharpening Our Sight Workshop](#SOSworkshop)
   - [Active Vision](#activevision)
@@ -28,6 +31,18 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 <a name="resources" />
 
 # Educational Resources
+
+<a name="books" />
+
+## Books
+
+<a name="courses" />
+
+## Courses
+
+<a name="tutorials" />
+
+## Tutorials
 
 <a name="research" />
 
