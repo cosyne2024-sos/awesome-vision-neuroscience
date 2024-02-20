@@ -54,9 +54,9 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
     * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
     * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
 
-* [Carsen Stringer](https://nielllab.uoregon.edu/): Towards a simplified model of primary visual corte
-    * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
-    * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
+* [Carsen Stringer](https://www.janelia.org/people/carsen-stringer): Towards a simplified model of primary visual cortex
+    * [**Spontaneous behaviors drive multidimensional, brainwide activity** (2019) <br /> *Carsen Stringer, Marius Pachitariu, Nicholas Steinmetz, Charu Bai Reddy, Matteo Carandini, Kenneth D Harris* <br />](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6525101/)
+    * [**High-precision coding in visual cortex** (2021) <br /> *Carsen Stringer, Michalis Michaelos, Dmitri Tsyboulski, Sarah E Lindo, Marius Pachitariu* <br />](https://www.cell.com/cell/pdf/S0092-8674(21)00373-1.pdf)
  
 * [Christopher Summerfield](https://nielllab.uoregon.edu/): How prospection skews the human representation of space during navigation
   * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
