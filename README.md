@@ -63,8 +63,9 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
   * [**Learning to count visual objects by combining" what" and" where" in recurrent memory** (2022) <br /> *Jessica AF Thompson, Hannah Sheahan, Christopher Summerfield* <br />](https://openreview.net/pdf?id=Al01q787m71)
 
 * [Stuart Trenholm](https://nielllab.uoregon.edu/): On assigning semantic meaning to the preferred stimulus of a visual neuron
-  * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
-  * [**Movement-Related Signals in Sensory Areas: Roles in Natural Behavior** (2020) <br /> *Philip RL Parker, Morgan A Brown, Matthew C Smear, Cristopher M Niell* <br />](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(20)30123-5)
+  * [**The feature landscape of visual cortex** (2023) <br /> *Rudi Tong, Ronan da Silva, Dongyan Lin, Arna Ghosh, James Wilsenach, Erica Cianfarano, Pouya Bashivan, Blake Richards, Stuart Trenholm* <br />](https://www.biorxiv.org/content/10.1101/2023.11.03.565500v1)
+  * [**Parallel Mechanisms Encode Direction in the Retina** (2011) <br /> *Stuart Trenholm, Kyle Johnson, Xiao Li, Robert G. Smith, and Gautam B. Awatramani,
+** <br />](https://www.cell.com/neuron/pdf/S0896-6273(11)00548-4.pdf)
 
 * [Wiktor Młynarski](https://www.gsn.uni-muenchen.de/people/faculty/core/mlynarski/index.html): Interacting with the environment through flexible sensory codes
   * [**Efficient and adaptive sensory codes** (2022) <br /> *Wiktor F. Młynarski & Ann M. Hermundstad* <br />](https://www.nature.com/articles/s41593-021-00846-0)
