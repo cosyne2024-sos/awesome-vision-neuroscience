@@ -190,9 +190,13 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 * [**European Conference on Visual Perception (ECVP)**](https://ecvp.org/)
 * [**European Retina Meeting (ERM)**](https://www.erm2023.eu/)
 
+  
 ### Computational Neuroscience 
 * [**CoSyNe Conference**](https://www.cosyne.org/)
 * [**Bernstein Conference**](https://bernstein-network.de/en/bernstein-conference/)
 
+### Wide Neuroscience 
+* [**Society for Neuroscience Meeting (SfN)**](https://www.sfn.org/meetings/neuroscience-2023)
+* [**FENS Forum**](https://fensforum.org/)
 
 
