@@ -13,6 +13,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 - [**Educational Resources**](#resources)
   - [Books](#books)
   - [Courses](#courses)
+  - [Seminars](#seminars)
   - [Tutorials](#tutorials)
 - [**Research Papers**](#research)
   - [Sharpening Our Sight Workshop](#SOSworkshop)
@@ -67,12 +68,37 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 ### Vision Neuroscience 
 
-* [**Visual Perception and the Brain** (2023) <br /> *Dale Purves* <br />](https://www.coursera.org/learn/visual-perception?utm_source=duke&utm_medium=institutions&utm_campaign=website--courses#modules)
+* [**Visual Neuroscience** (2016) <br /> *Tony Movshon* <br />](https://www.cns.nyu.edu/~tony/vns/)
+* [**Visual Perception and the Brain** (2016) <br /> *Dale Purves* <br />](https://www.coursera.org/learn/visual-perception?utm_source=duke&utm_medium=institutions&utm_campaign=website--courses#modules)
 
 ### Computational Neuroscience 
 
 * [**Neuromatch Academy, Computational Neuroscience** (2023)](https://compneuro.neuromatch.io/tutorials/intro.html)
 * [**Neural Computation @ UC Berkeley** (2022) <br /> *Bruno Olshausen* <br />](https://redwood.berkeley.edu/courses/vs265/)
+
+<a name="seminars" />
+
+## Seminars
+
+
+### Vision Neuroscience 
+
+* [**Vision Seminar Series @ UPenn** (2024)](https://vrc.med.upenn.edu/vision-seminar-series/)
+* [**BIU Vision Science** (2023)](https://shagido.wixsite.com/biu-vs)
+* [**Sussex Vision** (2024)](https://www.youtube.com/@badenlab6155)
+
+
+
+### Computational Neuroscience 
+
+* [**MedARC Neuroimaging and AI Lab** (2024)](https://stabilityai.notion.site/MedARC-Neuroimaging-AI-Lab-89ee6b1a10cc4a998ddc27166668b7fa/)
+* [**NeuroAI @ UCL** (2024)](https://www.ucl.ac.uk/research/domains/neuroscience/ucl-neuroai)
+* [**Swartz Seminar Series @ NYU** (2024)](https://as.nyu.edu/departments/cns/events/EventDescriptions/SwartzSeminar.html)
+* [**van Vreeswijk Theoretical Neuroscience Seminar** (2024)](https://www.wwtns.online/)
+
+
+
+
 
 <a name="tutorials" />
 
