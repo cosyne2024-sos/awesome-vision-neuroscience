@@ -95,6 +95,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**NeuroAI @ UCL** (2024)](https://www.ucl.ac.uk/research/domains/neuroscience/ucl-neuroai)
 * [**Swartz Seminar Series @ NYU** (2024)](https://as.nyu.edu/departments/cns/events/EventDescriptions/SwartzSeminar.html)
 * [**van Vreeswijk Theoretical Neuroscience Seminar** (2024)](https://www.wwtns.online/)
+* [**Cambridge Neurotech Seminars** (2024)](https://www.cambridgeneurotech.com/)
 
 
 
