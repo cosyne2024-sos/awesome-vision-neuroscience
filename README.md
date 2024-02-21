@@ -67,7 +67,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 ### Vision Neuroscience 
 
-[**Visual Perception and the Brain** (2023) <br /> *Dale Purves* <br />](https://www.coursera.org/learn/visual-perception?utm_source=duke&utm_medium=institutions&utm_campaign=website--courses#modules)
+* [**Visual Perception and the Brain** (2023) <br /> *Dale Purves* <br />](https://www.coursera.org/learn/visual-perception?utm_source=duke&utm_medium=institutions&utm_campaign=website--courses#modules)
 
 ### Computational Neuroscience 
 
