@@ -177,6 +177,15 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 
 # Datasets
 
+## Collaborative Research in Computational Neuroscience (CRCNS)
+
+* [**Eye Movements**](https://crcns.org/data-sets/eye)
+* [**Retina**](https://crcns.org/data-sets/retina)
+* [**Lateral Geniculate Nucleus (LGN)**](https://crcns.org/data-sets/lgn)
+* [**Visual Cortex**](https://crcns.org/data-sets/vc)
+
+
+
 
 <a name="software" />
 
