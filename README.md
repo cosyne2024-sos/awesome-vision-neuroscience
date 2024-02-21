@@ -67,9 +67,12 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 ### Vision Neuroscience 
 
+[**Visual Perception and the Brain** (2023) <br /> *Dale Purves* <br />](https://www.coursera.org/learn/visual-perception?utm_source=duke&utm_medium=institutions&utm_campaign=website--courses#modules)
+
 ### Computational Neuroscience 
 
 * [**Neuromatch Academy, Computational Neuroscience** (2023)](https://compneuro.neuromatch.io/tutorials/intro.html)
+* [**Neural Computation @ UC Berkeley** (2022) <br /> *Bruno Olshausen* <br />](https://redwood.berkeley.edu/courses/vs265/)
 
 <a name="tutorials" />
 
