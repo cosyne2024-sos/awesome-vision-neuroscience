@@ -24,6 +24,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
   - [Collaborative Research in Computational Neuroscience (CRCNS)](#crcns)
   - [Sensorium Competitions](#sensorium)
   - [Brainscore](#brainscore)
+  - [Algonauts Project](#algonauts)
 - [**Software Libraries**](#software)
 - [**Conferences and Workshops**](#conferences)
 
@@ -184,6 +185,8 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 
 ## Collaborative Research in Computational Neuroscience (CRCNS)
 
+U.S. National Science Foundation (NSF) project focused on data sharing.
+
 * [**Eye Movements**](https://crcns.org/data-sets/eye)
 * [**Retina**](https://crcns.org/data-sets/retina)
 * [**Lateral Geniculate Nucleus (LGN)**](https://crcns.org/data-sets/lgn)
@@ -194,6 +197,8 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 
 ## Sensorium Competition 
 
+Two-Photon Imaging data for video (dynamic) stimuli (2023 version) and images (static, 2021 version). 
+
 * [**Dynamic Sensorium (2023)**  <br /> mantained by *Ecker's Lab* <br />](https://www.sensorium-competition.net/)
 * [**Static Sensorium (2022)** <br /> mantained by *Sinz's Lab* <br />](https://github.com/sinzlab/sensorium)
 
@@ -201,7 +206,22 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 
 ## Brainscore 
 
+Electrophysiology and Behavioral data across the ventral visual stream (V1, V2, V4, IT).
+
 * [**Brainscore (2020)**  <br /> mantained by *Di Carlo's Lab* <br />](https://www.brain-score.org/)
+
+<a name="algonauts" />
+
+## Algonauts Project
+
+Functional Magnetic Resonance Imaging (fMRI) and Magnetoencelography (MEG) data (in the 2019 version). 
+
+* [**Algonauts 2023**  <br /> mantained by *Cichy's, Oliva's, Kay's and Roig's Lab* <br />](http://algonauts.csail.mit.edu/)
+* [**Algonauts 2021**  <br /> mantained by *Cichy's, Oliva's and Roig's Lab* <br />](http://algonauts.csail.mit.edu/2021/index.html)
+* [**Algonauts 2019**  <br /> mantained by *Cichy's, Oliva's and Roig's Lab* <br />](http://algonauts.csail.mit.edu/2019/index.html)
+
+
+
 
 <a name="software" />
 
