@@ -21,6 +21,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
   - [Neural Representations](#neurreps)
   - [Methods](#methods)
 - [**Datasets**](#datasets)
+  - [Collaborative Research in Computational Neuroscience (CRCNS)](#crcns)   
 - [**Software Libraries**](#software)
 - [**Conferences and Workshops**](#conferences)
 
@@ -176,6 +177,8 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 <a name="datasets" />
 
 # Datasets
+
+<a name="crcns" />
 
 ## Collaborative Research in Computational Neuroscience (CRCNS)
 
