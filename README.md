@@ -65,6 +65,12 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 ## Courses
 
+### Vision Neuroscience 
+
+### Computational Neuroscience 
+
+* [**Neuromatch Academy, Computational Neuroscience** (2023)](https://compneuro.neuromatch.io/tutorials/intro.html)
+
 <a name="tutorials" />
 
 ## Tutorials
