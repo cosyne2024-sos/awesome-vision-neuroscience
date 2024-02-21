@@ -184,4 +184,14 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 
 # Conferences and Workshops
 
+### Vision Neuroscience
+
+* [**Vision Sciences Society (VSS) Conference**](https://www.visionsciences.org/)
+* [**European Conference on Visual Perception (ECVP)**](https://ecvp.org/)
+
+### Computational Neuroscience 
+* [**CoSyNe Conference**](https://www.cosyne.org/)
+* [**Bernstein Conference**](https://bernstein-network.de/en/bernstein-conference/)
+
+
 
