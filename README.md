@@ -188,6 +188,7 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 
 * [**Vision Sciences Society (VSS) Conference**](https://www.visionsciences.org/)
 * [**European Conference on Visual Perception (ECVP)**](https://ecvp.org/)
+* [**European Retina Meeting**](https://www.erm2023.eu/)
 
 ### Computational Neuroscience 
 * [**CoSyNe Conference**](https://www.cosyne.org/)
