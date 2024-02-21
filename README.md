@@ -44,6 +44,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Vision Science: Photons to Phenomenology** (1999) <br /> *Stephen E. Palmer* <br />](https://mitpress.mit.edu/9780262161831/vision-science/)
 * [**Retinal Computation** (2021) <br /> *Greg Schwartz* <br />](https://shop.elsevier.com/books/retinal-computation/schwartz/978-0-12-819896-4)
 * [**Vision** (2021) <br /> *David Marr* <br />](https://mitpress.mit.edu/9780262514620/vision/)
+* [**Active Vision: The Psychology of Looking and Seeing** (2003)  <br /> *John M Findlay, Iain D Gilchrist* <br />](https://academic.oup.com/book/9777)
 
 
 **External Lists**
