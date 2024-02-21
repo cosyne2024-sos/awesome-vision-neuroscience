@@ -21,7 +21,9 @@ This is a collaborative work-in-progress. Please contribute via PRs!
   - [Neural Representations](#neurreps)
   - [Methods](#methods)
 - [**Datasets**](#datasets)
-  - [Collaborative Research in Computational Neuroscience (CRCNS)](#crcns)   
+  - [Collaborative Research in Computational Neuroscience (CRCNS)](#crcns)
+  - [Sensorium Competitions](#sensorium)
+  - [Brainscore](#brainscore)
 - [**Software Libraries**](#software)
 - [**Conferences and Workshops**](#conferences)
 
@@ -188,7 +190,18 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 * [**Visual Cortex**](https://crcns.org/data-sets/vc)
 
 
+<a name="sensorium" />
 
+## Sensorium Competition 
+
+* [**Dynamic Sensorium (2023)**  <br /> mantained by *Ecker's Lab* <br />](https://www.sensorium-competition.net/)
+* [**Static Sensorium (2022)** <br /> mantained by *Sinz's Lab* <br />](https://github.com/sinzlab/sensorium)
+
+<a name="brainscore" />
+
+## Brainscore 
+
+* [**Brainscore (2020)**  <br /> mantained by *Di Carlo's Lab* <br />](https://www.brain-score.org/)
 
 <a name="software" />
 
