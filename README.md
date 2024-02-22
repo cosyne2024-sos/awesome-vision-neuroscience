@@ -48,7 +48,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**The Computational Neuroscience of Vision** (2002) <br /> *Edmund T. Rolls and Gustavo Deco* <br />](https://www.oxcns.org/b6_text.html)
 * [**Vision Science: Photons to Phenomenology** (1999) <br /> *Stephen E. Palmer* <br />](https://mitpress.mit.edu/9780262161831/vision-science/)
 * [**Retinal Computation** (2021) <br /> *Greg Schwartz* <br />](https://shop.elsevier.com/books/retinal-computation/schwartz/978-0-12-819896-4)
-* [**Vision** (1980) <br /> *David Marr* <br />](https://mitpress.mit.edu/9780262514620/vision/)
+* [**Vision** (1982) <br /> *David Marr* <br />](https://mitpress.mit.edu/9780262514620/vision/)
 * [**Active Vision: The Psychology of Looking and Seeing** (2003)  <br /> *John M Findlay, Iain D Gilchrist* <br />](https://academic.oup.com/book/9777)
 * [**The Ecological Approach to Visual Perception** (1979)  <br /> *James J. Gibson* <br />](https://www.taylorfrancis.com/books/mono/10.4324/9781315740218/ecological-approach-visual-perception-james-gibson) 
 
