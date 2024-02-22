@@ -224,12 +224,14 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 ## NeuroAI
 
 * [**Deep convolutional models improve predictions of macaque V1 responses to natural images** (2019) <br /> *Santiago A Cadena, George H Denfield, Edgar Y Walker, Leon A Gatys, Andreas S Tolias, Matthias Bethge, Alexander S Ecker* <br />](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006897)
+* [**A rotation-equivariant convolutional neural network model of primary visual cortex** (2019) <br /> *Alexander S Ecker, Fabian H Sinz, Emmanouil Froudarakis, Paul G Fahey, Santiago A Cadena, Edgar Y Walker, Erick Cobos, Jacob Reimer, Andreas S Tolias, Matthias Bethge* <br />](https://arxiv.org/pdf/1809.10504.pdf)
 * [**Population code in mouse V1 facilitates read-out of natural scenes through increased sparseness** (2014) <br /> *E. Froudarakis, P. Berens, A. S. Ecker, R. J. Cotton, F. H. Sinz, D. Yatsenko, P. Saggau, M. Bethge, A. S. Tolias* <br />](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4106281/)
 * [**Controlling perceptual factors in neural style transfer** (2017) <br /> *Leon A Gatys, Alexander S Ecker, Matthias Bethge, Aaron Hertzmann, Eli Shechtman* <br />](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gatys_Controlling_Perceptual_Factors_CVPR_2017_paper.pdf)
-* [**Inception loops discover what excites neurons most using deep predictive models** (2019) <br /> *Edgar Y Walker, Fabian H Sinz, Erick Cobos, Taliah Muhammad, Emmanouil Froudarakis, Paul G Fahey, Alexander S Ecker, Jacob Reimer, Xaq Pitkow, Andreas S Tolias* <br />](https://par.nsf.gov/servlets/purl/10192523)
 * [**Neural system identification for large populations separating “what” and “where”** (2017) <br /> *David Klindt, Alexander S Ecker, Thomas Euler, Matthias Bethge* <br />](https://proceedings.neurips.cc/paper/2017/file/8c249675aea6c3cbd91661bbae767ff1-Paper.pdf)
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
+* [**Stimulus domain transfer in recurrent models for large scale cortical population prediction on video** (2018) <br /> *Fabian Sinz, Alexander S Ecker, Paul Fahey, Edgar Walker, Erick Cobos, Emmanouil Froudarakis, Dimitri Yatsenko, Zachary Pitkow, Jacob Reimer, Andreas Tolias* <br />](https://proceedings.neurips.cc/paper_files/paper/2018/file/9d684c589d67031a627ad33d59db65e5-Paper.pdf)
+* [**Inception loops discover what excites neurons most using deep predictive models** (2019) <br /> *Edgar Y Walker, Fabian H Sinz, Erick Cobos, Taliah Muhammad, Emmanouil Froudarakis, Paul G Fahey, Alexander S Ecker, Jacob Reimer, Xaq Pitkow, Andreas S Tolias* <br />](https://par.nsf.gov/servlets/purl/10192523)
+
+
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
