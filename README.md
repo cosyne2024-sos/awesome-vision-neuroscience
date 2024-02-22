@@ -180,8 +180,24 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 * [**Natural Image Statistics and Neural Representation** (2001) <br /> *Eero P Simoncelli and Bruno Olshausen* <br />](https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.24.1.1193)
 * [**Representation of local geometry in the visual system** (1987) <br /> *J. J. Koenderink & A. J. van Doorn* <br />](https://link.springer.com/article/10.1007/BF00318371)
 * [**The singularities of the visual mapping** (1976) <br /> *J. J. Koenderink & A. J. van Doorn* <br />](https://link.springer.com/article/10.1007/BF00365595)
-* [**Neural representations for object perception: structure, category, and adaptive coding** (2011) <br /> *Zoe Kourtzi, Charles E Connor* <br />](https://pubmed.ncbi.nlm.nih.gov/21438683/) 
-* [**Visual routines** (1987) <br /> *Shimon Ullman* <br />](https://www.sciencedirect.com/science/article/abs/pii/B9780080515816500350)
+* [**Neural representations for object perception: structure, category, and adaptive coding** (2011) <br /> *Zoe Kourtzi, Charles E Connor* <br />](https://pubmed.ncbi.nlm.nih.gov/21438683/)
+* [**Invariant Recognition Shapes Neural Representations of Visual Input** (2018) <br /> *Andrea Tacchetti, Leyla Isik, and Tomaso A. Poggio* <br />](https://www.annualreviews.org/doi/abs/10.1146/annurev-vision-091517-034103)
+* [**Invariant recognition drives neural representations of action sequences** (2017) <br /> *Andrea Tacchetti, Leyla Isik, Tomaso Poggio* <br />](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005859)
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+
 
 
 
