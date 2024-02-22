@@ -19,6 +19,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
   - [Sharpening Our Sight Workshop](#SOSworkshop)
   - [Active Vision](#activevision)
   - [Neural Representations](#neurreps)
+  - [NeuroAI](#neuroai)
   - [Methods](#methods)
 - [**Datasets**](#datasets)
   - [Collaborative Research in Computational Neuroscience (CRCNS)](#crcns)
@@ -171,6 +172,13 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 
 ## Neural Representations
 
+* [**Neural Representation and Neural Computation** (1990) <br /> *Patricia S. Churchland, Terrence J. Sejnowski* <br />](https://www.jstor.org/stable/2214198)
+* [**Neural Representation and the Cortical Code** (2000) <br /> *R. Christopher deCharms and Anthony Zador* <br />](https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.23.1.613)
+* [**Natural Image Statistics and Neural Representation** (2001) <br /> *Eero P Simoncelli and Bruno Olshausen* <br />](https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.24.1.1193)
+
+<a name="neuroai" />
+
+## NeuroAI
 
 <a name="methods" />
 
