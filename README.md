@@ -174,7 +174,11 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 
 * [**Neural Representation and Neural Computation** (1990) <br /> *Patricia S. Churchland, Terrence J. Sejnowski* <br />](https://www.jstor.org/stable/2214198)
 * [**Neural Representation and the Cortical Code** (2000) <br /> *R. Christopher deCharms and Anthony Zador* <br />](https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.23.1.613)
+* [**The neural representation of visual space** (1977) <br /> *N. Drasdo* <br />](https://www.nature.com/articles/266554a0)
+* [**Visual information processing: the structure and creation of visual representations** (1980) <br /> *D. Marr* <br />](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1980.0091)
 * [**Natural Image Statistics and Neural Representation** (2001) <br /> *Eero P Simoncelli and Bruno Olshausen* <br />](https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.24.1.1193)
+
+
 
 <a name="neuroai" />
 
