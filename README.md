@@ -172,20 +172,23 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 
 ## Neural Representations
 
+* [**Representation Learning in Sensory Cortex: a theory** (2014) <br /> *Fabio Anselmi and Tomaso Poggio* <br />](https://dspace.mit.edu/handle/1721.1/100191)
 * [**Understanding Human Object Vision: A Picture Is Worth a Thousand Representations** (2023) <br /> *Stefania Bracci and Hans P. Op de Beeck* <br />](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-032720-041031)
 * [**Neural Representation and Neural Computation** (1990) <br /> *Patricia S. Churchland, Terrence J. Sejnowski* <br />](https://www.jstor.org/stable/2214198)
 * [**Neural Representation and the Cortical Code** (2000) <br /> *R. Christopher deCharms and Anthony Zador* <br />](https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.23.1.613)
 * [**The neural representation of visual space** (1977) <br /> *N. Drasdo* <br />](https://www.nature.com/articles/266554a0)
-* [**Visual information processing: the structure and creation of visual representations** (1980) <br /> *D. Marr* <br />](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1980.0091)
-* [**Natural Image Statistics and Neural Representation** (2001) <br /> *Eero P Simoncelli and Bruno Olshausen* <br />](https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.24.1.1193)
+* [**Categorical Representation of Visual Stimuli in the Primate Prefrontal Cortex** (2001) <br /> *DAVID J. FREEDMAN, MAXIMILIAN RIESENHUBER, TOMASO POGGIO, AND EARL K. MILLER* <br />](https://www.science.org/doi/full/10.1126/science.291.5502.312)
+* [**Shape representation in the inferior temporal cortex of monkeys** (1995) <br /> *Nikos K. Logothetis, Jon Pauls, Tomaso Poggio* <br />](https://www.cell.com/fulltext/S0960-9822(95)00108-4)
 * [**Representation of local geometry in the visual system** (1987) <br /> *J. J. Koenderink & A. J. van Doorn* <br />](https://link.springer.com/article/10.1007/BF00318371)
 * [**The singularities of the visual mapping** (1976) <br /> *J. J. Koenderink & A. J. van Doorn* <br />](https://link.springer.com/article/10.1007/BF00365595)
 * [**Neural representations for object perception: structure, category, and adaptive coding** (2011) <br /> *Zoe Kourtzi, Charles E Connor* <br />](https://pubmed.ncbi.nlm.nih.gov/21438683/)
+* [**Visual information processing: the structure and creation of visual representations** (1980) <br /> *D. Marr* <br />](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.1980.0091)
+* [**Natural Image Statistics and Neural Representation** (2001) <br /> *Eero P Simoncelli and Bruno Olshausen* <br />](https://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.24.1.1193)
 * [**Invariant Recognition Shapes Neural Representations of Visual Input** (2018) <br /> *Andrea Tacchetti, Leyla Isik, and Tomaso A. Poggio* <br />](https://www.annualreviews.org/doi/abs/10.1146/annurev-vision-091517-034103)
 * [**Invariant recognition drives neural representations of action sequences** (2017) <br /> *Andrea Tacchetti, Leyla Isik, Tomaso Poggio* <br />](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005859)
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
+
+
+
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
