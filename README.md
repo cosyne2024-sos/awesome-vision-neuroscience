@@ -167,6 +167,18 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 
 ## Active Vision
 
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+
 
 <a name="neurreps" />
 
@@ -209,6 +221,18 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 <a name="neuroai" />
 
 ## NeuroAI
+
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
 
 <a name="methods" />
 
