@@ -224,14 +224,23 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 ## NeuroAI
 
 * [**Deep convolutional models improve predictions of macaque V1 responses to natural images** (2019) <br /> *Santiago A Cadena, George H Denfield, Edgar Y Walker, Leon A Gatys, Andreas S Tolias, Matthias Bethge, Alexander S Ecker* <br />](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006897)
+* [**Diverse task-driven modeling of macaque V4 reveals functional specialization towards semantic tasks** (2022) <br /> *Santiago A Cadena, Konstantin F Willeke, Kelli Restivo, George Denfield, Fabian H Sinz, Matthias Bethge, Andreas S Tolias, Alexander S Ecker* <br />](https://www.biorxiv.org/content/biorxiv/early/2023/05/23/2022.05.18.492503.full.pdf)
+* [**How well do deep neural networks trained on object recognition characterize the mouse visual system?** (2019) <br /> *Santiago A Cadena, Fabian H Sinz, Taliah Muhammad, Emmanouil Froudarakis, Erick Cobos, Edgar Y Walker, Jake Reimer, Matthias Bethge, Andreas Tolias, Alexander S Ecker* <br />](https://drive.google.com/file/d/1gjzqR8u0I-ulmQ7MvWd4HHSpxwvZUcf4/view)
 * [**A rotation-equivariant convolutional neural network model of primary visual cortex** (2019) <br /> *Alexander S Ecker, Fabian H Sinz, Emmanouil Froudarakis, Paul G Fahey, Santiago A Cadena, Edgar Y Walker, Erick Cobos, Jacob Reimer, Andreas S Tolias, Matthias Bethge* <br />](https://arxiv.org/pdf/1809.10504.pdf)
 * [**Population code in mouse V1 facilitates read-out of natural scenes through increased sparseness** (2014) <br /> *E. Froudarakis, P. Berens, A. S. Ecker, R. J. Cotton, F. H. Sinz, D. Yatsenko, P. Saggau, M. Bethge, A. S. Tolias* <br />](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4106281/)
 * [**Controlling perceptual factors in neural style transfer** (2017) <br /> *Leon A Gatys, Alexander S Ecker, Matthias Bethge, Aaron Hertzmann, Eli Shechtman* <br />](https://openaccess.thecvf.com/content_cvpr_2017/papers/Gatys_Controlling_Perceptual_Factors_CVPR_2017_paper.pdf)
+* [**Context-dependent selectivity to natural images in the retina** (2022) <br /> *Matías A Goldin, Baptiste Lefebvre, Samuele Virgili, Mathieu Kim Pham Van Cang, Alexander Ecker, Thierry Mora, Ulisse Ferrari, Olivier Marre* <br />](https://www.nature.com/articles/s41467-022-33242-8)
 * [**Neural system identification for large populations separating “what” and “where”** (2017) <br /> *David Klindt, Alexander S Ecker, Thomas Euler, Matthias Bethge* <br />](https://proceedings.neurips.cc/paper/2017/file/8c249675aea6c3cbd91661bbae767ff1-Paper.pdf)
+* [**Generalization in data-driven models of primary visual cortex** (2021) <br /> *Konstantin-Klemens Lurz, Mohammad Bashiri, Konstantin Willeke, Akshay K Jagadish, Eric Wang, Edgar Y Walker, Santiago A Cadena, Taliah Muhammad, Erick Cobos, Andreas S Tolias, Alexander S Ecker, Fabian H Sinz* <br />](https://www.biorxiv.org/content/10.1101/2020.10.05.326256v2.full.pdf)
 * [**Stimulus domain transfer in recurrent models for large scale cortical population prediction on video** (2018) <br /> *Fabian Sinz, Alexander S Ecker, Paul Fahey, Edgar Walker, Erick Cobos, Emmanouil Froudarakis, Dimitri Yatsenko, Zachary Pitkow, Jacob Reimer, Andreas Tolias* <br />](https://proceedings.neurips.cc/paper_files/paper/2018/file/9d684c589d67031a627ad33d59db65e5-Paper.pdf)
 * [**Inception loops discover what excites neurons most using deep predictive models** (2019) <br /> *Edgar Y Walker, Fabian H Sinz, Erick Cobos, Taliah Muhammad, Emmanouil Froudarakis, Paul G Fahey, Alexander S Ecker, Jacob Reimer, Xaq Pitkow, Andreas S Tolias* <br />](https://par.nsf.gov/servlets/purl/10192523)
 
 
+
+
+
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
