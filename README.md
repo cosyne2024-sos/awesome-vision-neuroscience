@@ -50,6 +50,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Retinal Computation** (2021) <br /> *Greg Schwartz* <br />](https://shop.elsevier.com/books/retinal-computation/schwartz/978-0-12-819896-4)
 * [**Vision** (2021) <br /> *David Marr* <br />](https://mitpress.mit.edu/9780262514620/vision/)
 * [**Active Vision: The Psychology of Looking and Seeing** (2003)  <br /> *John M Findlay, Iain D Gilchrist* <br />](https://academic.oup.com/book/9777)
+* [**The Ecological Approach to Visual Perception** (1979)  <br /> *James J. Gibson* <br />](https://www.taylorfrancis.com/books/mono/10.4324/9781315740218/ecological-approach-visual-perception-james-gibson) 
 
 
 **External Lists**
