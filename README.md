@@ -50,7 +50,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Retinal Computation** (2021) <br /> *Greg Schwartz* <br />](https://shop.elsevier.com/books/retinal-computation/schwartz/978-0-12-819896-4)
 * [**Vision** (1982) <br /> *David Marr* <br />](https://mitpress.mit.edu/9780262514620/vision/)
 * [**Active Vision: The Psychology of Looking and Seeing** (2003)  <br /> *John M Findlay, Iain D Gilchrist* <br />](https://academic.oup.com/book/9777)
-* [**The Ecological Approach to Visual Perception** (1979)  <br /> *James J. Gibson* <br />](https://www.taylorfrancis.com/books/mono/10.4324/9781315740218/ecological-approach-visual-perception-james-gibson) 
+* [**The Ecological Approach to Visual Perception** (1979)  <br /> *James J. Gibson* <br />](https://www.taylorfrancis.com/books/mono/10.4324/9781315740218/ecological-approach-visual-perception-james-gibson)
+* [**Eye movements and vision** (1967) <br /> *Alfred L. Yarbus* <br />](https://books.google.fr/books?hl=it&lr=&id=kRf3BwAAQBAJ&oi=fnd&pg=PA1&dq=Eye+Movements+and+Vision&ots=c99kR9083L&sig=Oi_G6DvVTPTCt-O0QkgrzkmOxMc&redir_esc=y#v=onepage&q=Eye%20Movements%20and%20Vision&f=false)
 
 
 **External Lists**
@@ -171,9 +172,9 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 [comment]: <> (From now on articles are sorted in first author's surname alphabetical order; if there are more papers from the same first author, you should order them based on the 
 alphabetical order of the article's Title)
 
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
+* [**Brain circuits for the internal monitoring of movements** (2008) <br /> *Marc A. Sommer and Robert H. Wurtz* <br />](https://www.annualreviews.org/doi/pdf/10.1146/annurev.neuro.31.060407.125627)
+* [**Yarbus, eye movements, and vision** (2010) <br /> *Benjamin W Tatler, Nicholas J Wade, Hoi Kwan, John M Findlay, and Boris M Velichkovsky* <br />](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3563050/)
+* [**Neuronal mechanisms of visual stability** (2008) <br /> *Robert H. Wurtz * <br />](https://www.sciencedirect.com/science/article/pii/S0042698908001727)
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
