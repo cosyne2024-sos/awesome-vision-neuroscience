@@ -236,8 +236,10 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 * [**Context-dependent selectivity to natural images in the retina** (2022) <br /> *Matías A Goldin, Baptiste Lefebvre, Samuele Virgili, Mathieu Kim Pham Van Cang, Alexander Ecker, Thierry Mora, Ulisse Ferrari, Olivier Marre* <br />](https://www.nature.com/articles/s41467-022-33242-8)
 * [**Neural system identification for large populations separating “what” and “where”** (2017) <br /> *David Klindt, Alexander S Ecker, Thomas Euler, Matthias Bethge* <br />](https://proceedings.neurips.cc/paper/2017/file/8c249675aea6c3cbd91661bbae767ff1-Paper.pdf)
 * [**Brain-like object recognition with high-performing shallow recurrent ANNs** (2019) <br /> *Jonas Kubilius, Martin Schrimpf, Kohitij Kar, Rishi Rajalingham, Ha Hong, Najib Majaj, Elias Issa, Pouya Bashivan, Jonathan Prescott-Roy, Kailyn Schmidt, Aran Nayebi, Daniel Bear, Daniel L Yamins, James J DiCarlo* <br />](https://proceedings.neurips.cc/paper/2019/file/7813d1590d28a7dd372ad54b5d29d033-Paper.pdf)
+* [**Cornet: Modeling the neural mechanisms of core object recognition** (2018) <br /> *Jonas Kubilius, Martin Schrimpf, Aran Nayebi, Daniel Bear, Daniel LK Yamins, James J DiCarlo* <br />](https://www.biorxiv.org/content/biorxiv/early/2018/09/04/408385.full.pdf)
 * [**Generalization in data-driven models of primary visual cortex** (2021) <br /> *Konstantin-Klemens Lurz, Mohammad Bashiri, Konstantin Willeke, Akshay K Jagadish, Eric Wang, Edgar Y Walker, Santiago A Cadena, Taliah Muhammad, Erick Cobos, Andreas S Tolias, Alexander S Ecker, Fabian H Sinz* <br />](https://www.biorxiv.org/content/10.1101/2020.10.05.326256v2.full.pdf)
 * [**Task-driven convolutional recurrent models of the visual system** (2018) <br /> *Aran Nayebi, Daniel Bear, Jonas Kubilius, Kohitij Kar, Surya Ganguli, David Sussillo, James J DiCarlo, Daniel L Yamins* <br />](https://proceedings.neurips.cc/paper/2018/file/6be93f7a96fed60c477d30ae1de032fd-Paper.pdf)
+* [**A deep learning framework for neuroscience** (2019) <br /> *Blake A Richards, Timothy P Lillicrap, Philippe Beaudoin, Yoshua Bengio, Rafal Bogacz, Amelia Christensen, Claudia Clopath, Rui Ponte Costa, Archy de Berker, Surya Ganguli, Colleen J Gillon, Danijar Hafner, Adam Kepecs, Nikolaus Kriegeskorte, Peter Latham, Grace W Lindsay, Kenneth D Miller, Richard Naud, Christopher C Pack, Panayiota Poirazi, Pieter Roelfsema, João Sacramento, Andrew Saxe, Benjamin Scellier, Anna C Schapiro, Walter Senn, Greg Wayne, Daniel Yamins, Friedemann Zenke, Joel Zylberberg, Denis Therien, Konrad P Kording* <br />](https://www.nature.com/articles/s41593-019-0520-2)
 * [**Brain-score: Which artificial neural network for object recognition is most brain-like?** (2018) <br /> *Martin Schrimpf, Jonas Kubilius, Ha Hong, Najib J Majaj, Rishi Rajalingham, Elias B Issa, Kohitij Kar, Pouya Bashivan, Jonathan Prescott-Roy, Franziska Geiger, Kailyn Schmidt, Daniel LK Yamins, James J DiCarlo* <br />](https://www.biorxiv.org/content/biorxiv/early/2020/01/02/407007.full.pdf)
 * [**Stimulus domain transfer in recurrent models for large scale cortical population prediction on video** (2018) <br /> *Fabian Sinz, Alexander S Ecker, Paul Fahey, Edgar Walker, Erick Cobos, Emmanouil Froudarakis, Dimitri Yatsenko, Zachary Pitkow, Jacob Reimer, Andreas Tolias* <br />](https://proceedings.neurips.cc/paper_files/paper/2018/file/9d684c589d67031a627ad33d59db65e5-Paper.pdf)
 * [**Inception loops discover what excites neurons most using deep predictive models** (2019) <br /> *Edgar Y Walker, Fabian H Sinz, Erick Cobos, Taliah Muhammad, Emmanouil Froudarakis, Paul G Fahey, Alexander S Ecker, Jacob Reimer, Xaq Pitkow, Andreas S Tolias* <br />](https://par.nsf.gov/servlets/purl/10192523)
@@ -245,6 +247,19 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 * [**Using goal-driven deep learning models to understand sensory cortex** (2016) <br /> *Daniel LK Yamins, James J DiCarlo* <br />](https://d1wqtxts1xzle7.cloudfront.net/43799961/yamins_dicarlo_NN_2016-libre.pdf?1458178368=&response-content-disposition=inline%3B+filename%3DUsing_goal_driven_deep_learning_models_t.pdf&Expires=1708617100&Signature=XJfXIEE5WPr2g6HNfaqsEWplqUnilte3-TmTm9Zd44S-C-X9QXmbTOwX6AwQPZEfq6qZqf84fcWL6B5vF9wJC3~3aA~MtH-L0Hk-Aa40KdKFwX01xEGG7fsPtHvEn8FdhcQzY0whwbv2uMbINlV38JQkm3blZwMRL~vpHfdj32Ia16ao2h8k82WFyXN3iRR2nITGJUq-fAi57TRZFxHYTD4GqncaQ~vl5SXYearGvO9urQ-5gwO-2w1mj2s4aLc5cVy587~ndag8SQKE5ZiOwKucS4q~Sg~mRWhCo8mICOFZyx8qyp6jChIN8VRfQASrORSc1-3ko~JMz4e19V3wOg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 * [**Unsupervised neural network models of the ventral visual stream** (2021) <br /> *Chengxu Zhuang, Siming Yan, Aran Nayebi, Martin Schrimpf, Michael C Frank, James J DiCarlo, Daniel LK Yamins* <br />](https://www.pnas.org/doi/pdf/10.1073/pnas.2014196118)
 
+
+  
+
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
+* [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
