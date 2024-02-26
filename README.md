@@ -168,6 +168,9 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 
 ## Active Vision
 
+[comment]: <> (From now on articles are sorted in first author's surname alphabetical order; if there are more papers from the same first author, you should order them based on the 
+alphabetical order of the article's Title)
+
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
@@ -184,6 +187,9 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 <a name="neurreps" />
 
 ## Neural Representations
+
+[comment]: <> (Articles are sorted in first author's surname alphabetical order; if there are more papers from the same first author, you should order them based on the 
+alphabetical order of the article's Title)
 
 * [**Representation Learning in Sensory Cortex: a theory** (2014) <br /> *Fabio Anselmi and Tomaso Poggio* <br />](https://dspace.mit.edu/handle/1721.1/100191)
 * [**Understanding Human Object Vision: A Picture Is Worth a Thousand Representations** (2023) <br /> *Stefania Bracci and Hans P. Op de Beeck* <br />](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-032720-041031)
@@ -222,6 +228,10 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 <a name="neuroai" />
 
 ## NeuroAI
+
+
+[comment]: <> (Articles are sorted in first author's surname alphabetical order; if there are more papers from the same first author, you should order them based on the 
+alphabetical order of the article's Title)
 
 
 * [**Neural population control via deep image synthesis** (2019) <br /> *Pouya Bashivan, Kohitij Kar, James J DiCarlo* <br />](https://www.biorxiv.org/content/biorxiv/early/2018/11/04/461525.full.pdf.)
