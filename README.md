@@ -172,14 +172,15 @@ We selected two relevant papers from each speaker at our Cosyne workshop, with t
 [comment]: <> (From now on articles are sorted in first author's surname alphabetical order; if there are more papers from the same first author, you should order them based on the 
 alphabetical order of the article's Title)
 
+
+* [**Dynamic causal modelling of eye movements during pursuit: confirming precision-encoding in V1 using MEG** (2016) <br /> *RA Adams, M Bauer, D Pinotsis, KJ Friston* <br />](https://www.sciencedirect.com/science/article/pii/S1053811916001646)
+* [**A computational learning theory of active object recognition under uncertainty** (2013) <br /> *A Andreopoulos, JK Tsotsos* <br />](https://link.springer.com/article/10.1007/s11263-012-0551-6)
+* [**Neural network simulations of the primate oculomotor system III. An one-dimensional, one-directional model of the superior colliculus** (1998) <br /> *A Bozis, AK Moschovakis* <br />](https://link.springer.com/article/10.1007/s004220050472)
+* [**Present concepts of oculomotor organization** (1998) <br /> *U Büttner, JA Büttner-Ennever* <br />](https://europepmc.org/article/med/3153650)
+* [**A neural basis for visual search in inferior temporal cortex** (1993) <br /> *L Chelazzi, EK Miller, J Duncan, R Desimone* <br />](https://www.nature.com/articles/363345a0)
 * [**Brain circuits for the internal monitoring of movements** (2008) <br /> *Marc A. Sommer and Robert H. Wurtz* <br />](https://www.annualreviews.org/doi/pdf/10.1146/annurev.neuro.31.060407.125627)
 * [**Yarbus, eye movements, and vision** (2010) <br /> *Benjamin W Tatler, Nicholas J Wade, Hoi Kwan, John M Findlay, and Boris M Velichkovsky* <br />](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3563050/)
 * [**Neuronal mechanisms of visual stability** (2008) <br /> *Robert H. Wurtz* <br />](https://www.sciencedirect.com/science/article/pii/S0042698908001727)
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
