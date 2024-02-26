@@ -174,7 +174,7 @@ alphabetical order of the article's Title)
 
 * [**Brain circuits for the internal monitoring of movements** (2008) <br /> *Marc A. Sommer and Robert H. Wurtz* <br />](https://www.annualreviews.org/doi/pdf/10.1146/annurev.neuro.31.060407.125627)
 * [**Yarbus, eye movements, and vision** (2010) <br /> *Benjamin W Tatler, Nicholas J Wade, Hoi Kwan, John M Findlay, and Boris M Velichkovsky* <br />](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3563050/)
-* [**Neuronal mechanisms of visual stability** (2008) <br /> *Robert H. Wurtz * <br />](https://www.sciencedirect.com/science/article/pii/S0042698908001727)
+* [**Neuronal mechanisms of visual stability** (2008) <br /> *Robert H. Wurtz* <br />](https://www.sciencedirect.com/science/article/pii/S0042698908001727)
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
 * [**** () <br /> ** <br />]()
