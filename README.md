@@ -184,20 +184,8 @@ alphabetical order of the article's Title)
 * [**Yarbus, eye movements, and vision** (2010) <br /> *Benjamin W Tatler, Nicholas J Wade, Hoi Kwan, John M Findlay, and Boris M Velichkovsky* <br />](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3563050/)
 * [**Neuronal mechanisms of visual stability** (2008) <br /> *Robert H. Wurtz* <br />](https://www.sciencedirect.com/science/article/pii/S0042698908001727)
 
+[comment]: <> (You can use this to add a new article)
 * [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-
 
 <a name="neurreps" />
 
@@ -223,16 +211,7 @@ alphabetical order of the article's Title)
 
 
 
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
+[comment]: <> (You can use this to add a new article)
 * [**** () <br /> ** <br />]()
 
 
@@ -273,20 +252,7 @@ alphabetical order of the article's Title)
 * [**Unsupervised neural network models of the ventral visual stream** (2021) <br /> *Chengxu Zhuang, Siming Yan, Aran Nayebi, Martin Schrimpf, Michael C Frank, James J DiCarlo, Daniel LK Yamins* <br />](https://www.pnas.org/doi/pdf/10.1073/pnas.2014196118)
 
 
-  
-
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
-* [**** () <br /> ** <br />]()
+[comment]: <> (You can use this to add a new article)
 * [**** () <br /> ** <br />]()
 
 <a name="methods" />
